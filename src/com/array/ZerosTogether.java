@@ -20,6 +20,7 @@ public class ZerosTogether {
        cnt++;
       }
     }
+
         Arrays.stream(arr).forEach(o-> System.out.print(o+" , "));
     }
 }
